@@ -1,4 +1,4 @@
-# lab00 - README
+﻿# lab00 - README
 
 ## Préparation
 
@@ -34,4 +34,5 @@ Vous avez reçu un lien pour l'assignment.
 - enregistrer les données : `commit`,
 - livrer le travail : `push`.
 
+ok 
 
